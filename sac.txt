@@ -1,0 +1,5 @@
+Date		 , Date__c
+
+Notes		 , Notes__c
+
+Day of the Week    , Day_of_the_Week__c
